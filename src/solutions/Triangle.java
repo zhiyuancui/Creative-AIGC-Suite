@@ -3,6 +3,10 @@ package solutions;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * #120 Triangle
+ */
+
 public class Triangle {
 	public int minimumTotal(List<List<Integer>> triangle) {
         if( triangle == null ){

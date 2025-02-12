@@ -2,6 +2,9 @@ package solutions;
 
 import java.util.Arrays;
 
+/**
+ * #455 Assign Cookies
+ */
 public class AssignCookies {
 
 	public int findContentChildren(int[] greedy, int[] cookies) {
