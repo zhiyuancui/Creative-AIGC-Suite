@@ -18,6 +18,10 @@ Everything we're building for Creative AIGC Suite is designed to help make brand
 Creative Assistant is a virtual assistant designed to intelligently collaborate with advertisers, creative partners and content creators on creative direction.  
 The Assistant draws information from a wealth of creative knowledge to provide quality responses covering creative inspiration, insights, script generation and refinement, best practices and solution recommendations. 
 
+### Creative Studio 
+Creative Studio is an AI-powered video generation platform that generates videos in minutes from minimal user inputs.  
+Turn your product information or URL into a video in minutes, add a digital avatar to narrative your video script, or localize your existing videos into new languages by using translation and dubbing capabilities.
+
 ### Build
 
 ```shell script
