@@ -1,10 +1,10 @@
 
 
-## Tiktok Creative AIGC Suite
-Summary
-Creative is one of the most critical factors for success on stream media, and with recent advancements in Generative AI, there's renewed focus on making the process of creating more accessible, efficient and simple, empowering the world to create meaningful content at scale. 
-Generative AI refers to AI systems and models that can be used to create new content, including audio, images, text, and videos, and may also be referred to as AIGC (AI-Generated Content). 
-Within this project, you'll find the latest Generative AI products, capabilities and solutions to help your clients and partners supercharge creative productivity. 
+## Creative AIGC Suite
+### Summary
+Creative is one of the most critical factors for success on stream media, and with recent advancements in Generative AI, there's renewed focus on making the process of creating more accessible, efficient and simple, empowering the world to create meaningful content at scale.   
+Generative AI refers to AI systems and models that can be used to create new content, including audio, images, text, and videos, and may also be referred to as AIGC (AI-Generated Content).   
+Within this project, you'll find the latest Generative AI products, capabilities and solutions to help your clients and partners supercharge creative productivity.   
 
 ### Build
 
