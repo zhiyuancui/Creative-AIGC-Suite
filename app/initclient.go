@@ -1,41 +1,34 @@
 package app
 
 import (
-	eventbus2 "code.byted.org/ad/open_core/queue/eventbus"
-	mysql "code.byted.org/ad/open_core/storage/db/mysql/v2"
-	"code.byted.org/ad/open_core/storage/es"
-	"code.byted.org/ad/open_core/storage/redis"
-	eventbus "code.byted.org/eventbus/client-go"
-	"code.byted.org/gopkg/env"
-	"code.byted.org/gopkg/lang/strings"
 	"gorm.io/gorm"
 )
 
 var (
-	RedisCli      *redis.Client
-	CreativeDBCli *gorm.DB
-	EsCli         *es.Client
-	//DynamicConfigGetter = &DynamicConfig{}
-	NotificationSendProducer eventbus.Producer
+	RedisCli            *redis.Client
+	CreativeDBCli       *gorm.DB
+	EsCli               *es.Client
+	DynamicConfigGetter = &DynamicConfig{}
 )
 
 func InitClients() {
-	//initRedis()
-	//// initEs()
+	initRedis()
+	initEs()
 	initCreativeDB()
 	initProducer()
-	//initRPC()
-	//initTCC()
+	initRPC()
+	initTCC()
 }
 
-//	func initRedis() {
-//		var err error
-//		RedisCli, err = redis.NewClient(&ServiceConf.Redis)
-//		if err != nil {
-//			panic(err)
-//		}
-//	}
-func initCreativeDB() {
+func initRedis() {
+	var err error
+	RedisCli, err = redis.NewClient(&ServiceConf.Redis)
+	if err != nil {
+		panic(err)
+	}
+}
+
+func initDB() {
 	var err error
 	dbConfig := &ServiceConf.CreativeDB
 
@@ -60,4 +53,3 @@ func CloseProducer() {
 		_ = NotificationSendProducer.Close()
 	}
 }
-
