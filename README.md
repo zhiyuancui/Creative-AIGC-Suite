@@ -2,25 +2,31 @@
 
 ## Creative AIGC Suite
 ### Summary
-Creative is one of the most critical factors for success on stream media, and with recent advancements in Generative AI, there's renewed focus on making the process of creating more accessible, efficient and simple, empowering the world to create meaningful content at scale.   
-Generative AI refers to AI systems and models that can be used to create new content, including audio, images, text, and videos, and may also be referred to as AIGC (AI-Generated Content).   
-Within this project, you'll find the latest Generative AI products, capabilities and solutions to help your clients and partners supercharge creative productivity.   
+Creativity is a crucial factor in the success of streaming media, and advancements in Generative AI are making content creation more accessible, efficient, and seamless. These innovations empower creators to produce meaningful content at scale.  
+
+Generative AI refers to AI-powered systems and models that generate new content—such as audio, images, text, and videos—also known as AI-Generated Content (AIGC).  
+
+This project features the latest Generative AI products, capabilities, and solutions to help your clients and partners elevate creative productivity.  
+
 
 ### What is Creative AIGC Suite?
-Creative AIGC Suite is a suite of generative AI solutions that elevates your content creation journey.  
-With Creative AIGC Suite, everything from helping to write a script to producing a video and optimizing assets is effortless and efficient—fueling business success with content that strikes a chord.
-Everything we're building for Creative AIGC Suite is designed to help make branded content. It can help brands:  
-* Level the creative playing field: We are enabling the creative journey from concept to completion.  
-* Boost productivity: By leveraging generative AI, businesses can supercharge their productivity in content creation. It makes it more possible to create at scale, integrate hyper-personalization, and make constant iterations. 
-* Uncover insights: Generative AI goes beyond just creating content; it also identifies cultural and industry trends as well as campaign learnings, enabling brands to make informed decisions and refinements to their creative strategies.
+Creative AIGC Suite is a powerful suite of generative AI solutions designed to enhance your content creation journey.  
+From scriptwriting to video production and asset optimization, Creative AIGC Suite streamlines every step, making content creation effortless and efficient—helping businesses produce impactful content that drives success. 
+Built specifically for branded content, Creative AIGC Suite empowers brands to:
 
-### Creative Assistant 
-Creative Assistant is a virtual assistant designed to intelligently collaborate with advertisers, creative partners and content creators on creative direction.  
-The Assistant draws information from a wealth of creative knowledge to provide quality responses covering creative inspiration, insights, script generation and refinement, best practices and solution recommendations. 
+* Democratize creativity – Simplifying the creative process from concept to execution, making high-quality content creation more accessible.
+* Maximize efficiency – Leveraging generative AI to scale content production, enable hyper-personalization, and facilitate continuous iteration.
+* Unlock strategic insights – Going beyond content generation to identify cultural and industry trends, extract campaign learnings, and refine creative strategies for better decision-making.
+
+### Creative AI Assistant 
+Creative Assistant is a virtual assistant designed to collaborate intelligently with to shape creative direction.  
+
+Drawing from extensive creative expertise, it provides valuable insights, inspiration, script generation and refinement, best practices, and tailored solution recommendations—empowering users to produce high-quality, impactful content with ease.
 
 ### Creative Studio 
-Creative Studio is an AI-powered video generation platform that generates videos in minutes from minimal user inputs.  
-Turn your product information or URL into a video in minutes, add a digital avatar to narrative your video script, or localize your existing videos into new languages by using translation and dubbing capabilities.
+Creative Studio is an AI-powered video generation platform that transforms minimal user input into high-quality videos in minutes.  
+
+Easily convert product information or a URL into a compelling video, enhance storytelling with a digital avatar narrating your script, and expand your reach by localizing content through AI-driven translation and dubbing capabilities.
 
 ### Build
 
