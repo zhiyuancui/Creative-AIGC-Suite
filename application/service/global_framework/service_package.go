@@ -1,15 +1,6 @@
 package global_framework
 
 import (
-	"code.byted.org/ad/creative_one_partner_business/application/service"
-	"code.byted.org/ad/creative_one_partner_business/infrastructure/rpc"
-	"code.byted.org/ad/creative_one_partner_business/kitex_gen/ad/creative_one/partner_business"
-	"code.byted.org/ad/creative_one_partner_business/kitex_gen/base"
-	"code.byted.org/ad/creative_tcpp_server_i18n/biz/clients"
-	ttcxrpc "code.byted.org/ad/creative_tcpp_server_i18n/biz/dals/rpc"
-	"code.byted.org/gopkg/lang/conv"
-	"code.byted.org/lang/gg/gptr"
-	"code.byted.org/lang/gg/gslice"
 	"context"
 )
 
